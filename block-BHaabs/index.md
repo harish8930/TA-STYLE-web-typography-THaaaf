@@ -130,6 +130,37 @@ h2{font-size: 30px;
 	text-shadow: 5px 5px 5px cornflowerblue;
 }
 
+.main-para{font-family: url(Ubuntu.zip);
+	font-size: 14px;
+	color: white;
+	font-weight: lighter;
+text-decoration: underline  rgb(131, 216, 228);
+line-height: 1.2;
+letter-spacing: 3px;
+}
+
+h2{font-size: 30px;
+	text-align: center;
+	color: white;
+	margin-top: 40px;
+	text-shadow: 5px 5px 5px cornflowerblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .main-para2{font-size: 14px;
 	color: white;
 	font-weight: lighter;
