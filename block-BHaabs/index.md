@@ -108,6 +108,11 @@ h1{font-family: url(Open_Sans.zip);
 .p2{color: white;
 }
 
+,
+
+
+
+
 
 .main-para{font-family: url(Ubuntu.zip);
 	font-size: 14px;
