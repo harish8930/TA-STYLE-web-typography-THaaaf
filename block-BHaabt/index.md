@@ -247,7 +247,7 @@ height: 20px;
 .btn2{margin-top: 100px;
 margin-right: 60px;}
   
-  
+  ................
   
   
   
